@@ -25,7 +25,7 @@ st.sidebar.markdown(
     "This app is use to analyze your WhatsApp Chat using the exported text file 📁.")
 
 st.sidebar.markdown('<b>Prathamesh patil</b>\
-                <a href = ".https://github.com/prathamesh21301819/ChatStatsPRo" ><img src = "https://img.shields.io/badge/Author-@prathameshpatil-gray.svg?colorA=gray&colorB=dodgerblue&logo=github"/>\
+                <a href = "https://github.com/prathamesh21301819/ChatStatsPRo" ><img src = "https://img.shields.io/badge/Author-@prathameshpatil-gray.svg?colorA=gray&colorB=dodgerblue&logo=github"/>\
                 <a/>', unsafe_allow_html=True)
 
 st.sidebar.markdown('*How to export chat text file?*')
